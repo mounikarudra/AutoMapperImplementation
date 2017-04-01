@@ -1,0 +1,8 @@
+E:\Users\mounika.rudra\Documents\Repositories\develop-clone\mounikarudra\AutoMapperImplementation\AutoMapperImplementation\bin\Debug\AutoMapperImplementation.exe.config
+E:\Users\mounika.rudra\Documents\Repositories\develop-clone\mounikarudra\AutoMapperImplementation\AutoMapperImplementation\bin\Debug\AutoMapperImplementation.exe
+E:\Users\mounika.rudra\Documents\Repositories\develop-clone\mounikarudra\AutoMapperImplementation\AutoMapperImplementation\bin\Debug\AutoMapperImplementation.pdb
+E:\Users\mounika.rudra\Documents\Repositories\develop-clone\mounikarudra\AutoMapperImplementation\AutoMapperImplementation\bin\Debug\AutoMapper.dll
+E:\Users\mounika.rudra\Documents\Repositories\develop-clone\mounikarudra\AutoMapperImplementation\AutoMapperImplementation\bin\Debug\AutoMapper.xml
+E:\Users\mounika.rudra\Documents\Repositories\develop-clone\mounikarudra\AutoMapperImplementation\AutoMapperImplementation\obj\Debug\AutoMapperImplementation.csprojResolveAssemblyReference.cache
+E:\Users\mounika.rudra\Documents\Repositories\develop-clone\mounikarudra\AutoMapperImplementation\AutoMapperImplementation\obj\Debug\AutoMapperImplementation.exe
+E:\Users\mounika.rudra\Documents\Repositories\develop-clone\mounikarudra\AutoMapperImplementation\AutoMapperImplementation\obj\Debug\AutoMapperImplementation.pdb

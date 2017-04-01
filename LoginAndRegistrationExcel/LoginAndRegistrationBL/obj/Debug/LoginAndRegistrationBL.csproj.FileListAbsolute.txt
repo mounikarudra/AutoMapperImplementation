@@ -1,0 +1,14 @@
+e:\users\mounika.rudra\documents\visual studio 2015\Projects\LoginAndRegistrationExcel\LoginAndRegistrationBL\obj\Debug\LoginAndRegistrationBL.csprojResolveAssemblyReference.cache
+e:\users\mounika.rudra\documents\visual studio 2015\Projects\LoginAndRegistrationExcel\LoginAndRegistrationBL\bin\Debug\LoginAndRegistrationBL.dll
+e:\users\mounika.rudra\documents\visual studio 2015\Projects\LoginAndRegistrationExcel\LoginAndRegistrationBL\bin\Debug\LoginAndRegistrationBL.pdb
+e:\users\mounika.rudra\documents\visual studio 2015\Projects\LoginAndRegistrationExcel\LoginAndRegistrationBL\bin\Debug\LoginAndRegistrationDAL.dll
+e:\users\mounika.rudra\documents\visual studio 2015\Projects\LoginAndRegistrationExcel\LoginAndRegistrationBL\bin\Debug\LoginAndRegistrationDAL.pdb
+e:\users\mounika.rudra\documents\visual studio 2015\Projects\LoginAndRegistrationExcel\LoginAndRegistrationBL\obj\Debug\LoginAndRegistrationBL.dll
+e:\users\mounika.rudra\documents\visual studio 2015\Projects\LoginAndRegistrationExcel\LoginAndRegistrationBL\obj\Debug\LoginAndRegistrationBL.pdb
+E:\Users\mounika.rudra\Documents\Repositories\develop-clone\mounikarudra\LoginAndRegistrationExcel\LoginAndRegistrationBL\bin\Debug\LoginAndRegistrationBL.dll
+E:\Users\mounika.rudra\Documents\Repositories\develop-clone\mounikarudra\LoginAndRegistrationExcel\LoginAndRegistrationBL\bin\Debug\LoginAndRegistrationBL.pdb
+E:\Users\mounika.rudra\Documents\Repositories\develop-clone\mounikarudra\LoginAndRegistrationExcel\LoginAndRegistrationBL\bin\Debug\LoginAndRegistrationDAL.dll
+E:\Users\mounika.rudra\Documents\Repositories\develop-clone\mounikarudra\LoginAndRegistrationExcel\LoginAndRegistrationBL\bin\Debug\LoginAndRegistrationDAL.pdb
+E:\Users\mounika.rudra\Documents\Repositories\develop-clone\mounikarudra\LoginAndRegistrationExcel\LoginAndRegistrationBL\obj\Debug\LoginAndRegistrationBL.csprojResolveAssemblyReference.cache
+E:\Users\mounika.rudra\Documents\Repositories\develop-clone\mounikarudra\LoginAndRegistrationExcel\LoginAndRegistrationBL\obj\Debug\LoginAndRegistrationBL.dll
+E:\Users\mounika.rudra\Documents\Repositories\develop-clone\mounikarudra\LoginAndRegistrationExcel\LoginAndRegistrationBL\obj\Debug\LoginAndRegistrationBL.pdb
